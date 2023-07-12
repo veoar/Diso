@@ -1,5 +1,5 @@
 #!/bin/bash
-#This renames the summary file to have the time ID code
+#This renames the summary file from CRISPRCasFinder to have the time ID code
 parent_directory="/home/mbxjt11/scratch/CRISPRCasFinder-master"
 
 for directory in "$parent_directory"/Result_GCF*; do
