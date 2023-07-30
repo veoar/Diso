@@ -9,4 +9,4 @@ dest_dir="/home/mbxjt11/scratch/prokka_clean"
 mkdir -p $dest_dir
 
 # Move all .fna files from the source directory and its subdirectories to the destination directory
-find $source_dir -name "*.gff" -exec mv {} $dest_dir \;
+find $source_dir -name "*.fna" -exec mv {} $dest_dir \;
