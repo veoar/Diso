@@ -1,0 +1,277 @@
+Input_file,Organism Name
+GCF_000826835.2_ASM82683v2_genomic.fna,Phaeobacter piscinae
+GCF_002085925.2_ASM208592v2_genomic.fna,Thioclava electrotropha
+GCF_003240565.2_ASM324056v2_genomic.fna,Rhizobium tumorigenes
+GCF_003590145.2_ASM359014v2_genomic.fna,Pseudooceanicola algae
+GCF_005860795.2_ASM586079v2_genomic.fna,Peteryoungia desertarenae
+GCF_005862185.2_ASM586218v2_genomic.fna,Rhizobium hidalgonense
+GCF_005862305.2_ASM586230v2_genomic.fna,Rhizobium indicum
+GCF_007000325.2_ASM700032v2_genomic.fna,Rhizobium rhododendri
+GCF_009856525.1_ASM985652v1_genomic.fna,Neorickettsia findlayensis
+GCF_009913435.1_ASM991343v1_genomic.fna,Sphingomonas changnyeongensis
+GCF_009914215.1_ASM991421v1_genomic.fna,Acetobacter pasteurianus
+GCF_010450875.1_ASM1045087v1_genomic.fna,Sphingomonas insulae
+GCF_010450895.1_ASM1045089v1_genomic.fna,Rhizobium daejeonense
+GCF_010669125.1_ASM1066912v1_genomic.fna,Ancylobacter pratisalsi
+GCF_010669145.1_ASM1066914v1_genomic.fna,Rhizobium oryzihabitans
+GCF_010977555.1_ASM1097755v1_genomic.fna,Caulobacter rhizosphaerae
+GCF_011044155.1_ASM1104415v1_genomic.fna,Pikeienuella piscinae
+GCF_011044255.1_ASM1104425v1_genomic.fna,Rhizorhabdus phycosphaerae
+GCF_011046245.1_ASM1104624v1_genomic.fna,Rhizobium pseudoryzae
+GCF_011046895.1_ASM1104689v1_genomic.fna,Rhizobium rhizoryzae
+GCF_011057975.1_ASM1105797v1_genomic.fna,Sphingosinithalassobacter tenebrarum
+GCF_011068405.5_ASM1106840v5_genomic.fna,Bradyrhizobium barranii subsp. barranii
+GCF_011290545.1_ASM1129054v1_genomic.fna,Pontibrevibacter nitratireducens
+GCF_011300455.1_ASM1130045v1_genomic.fna,Sphingomonas piscis
+GCF_011302055.1_ASM1130205v1_genomic.fna,Sphingomonas sinipercae
+GCF_011516645.4_ASM1151664v4_genomic.fna,Bradyrhizobium septentrionale
+GCF_011604665.1_ASM1160466v1_genomic.fna,Bradyrhizobium symbiodeficiens
+GCF_011611525.1_ASM1161152v1_genomic.fna,Komagataeibacter rhaeticus
+GCF_012030695.1_ASM1203069v1_genomic.fna,Wolbachia endosymbiont of Brugia pahangi
+GCF_012276695.1_ASM1227669v1_genomic.fna,Candidatus Pelagibacter giovannonii
+GCF_012277295.1_ASM1227729v1_genomic.fna,Wolbachia endosymbiont of Ctenocephalides felis wCfeT
+GCF_012277315.1_ASM1227731v1_genomic.fna,Wolbachia endosymbiont of Ctenocephalides felis wCfeJ
+GCF_012295595.1_ASM1229559v1_genomic.fna,Thalassobius gelatinovorus
+GCF_012516475.1_ASM1251647v1_genomic.fna,Parasphingorhabdus halotolerans
+GCF_012689545.1_ASM1268954v1_genomic.fna,Paracoccus sanguinis
+GCF_012871055.1_ASM1287105v1_genomic.fna,Bradyrhizobium elkanii USDA 61
+GCF_012913625.1_ASM1291362v1_genomic.fna,Mesorhizobium japonicum R7A
+GCF_012932215.1_ASM1293221v1_genomic.fna,Roseobacter ponti
+GCF_012979535.1_ASM1297953v1_genomic.fna,Sphingomonas lacunae
+GCF_013004005.1_ASM1300400v1_genomic.fna,Pelagibacterium halotolerans
+GCF_013170725.1_ASM1317072v1_genomic.fna,Mesorhizobium erdmanii
+GCF_013170785.1_ASM1317078v1_genomic.fna,Mesorhizobium jarvisii
+GCF_013201075.1_ASM1320107v1_genomic.fna,Lichenicola cladoniae
+GCF_013260645.1_ASM1326064v1_genomic.fna,Erythrobacter mangrovi
+GCF_013285525.1_ASM1328552v1_genomic.fna,Agrobacterium pusense
+GCF_013347125.1_ASM1334712v1_genomic.fna,Pseudosulfitobacter pseudonitzschiae
+GCF_013347285.1_ASM1334728v1_genomic.fna,Azospirillum oryzae
+GCF_013358405.1_ASM1335840v1_genomic.fna,Oricola thermophila
+GCF_013365435.1_ASM1336543v1_genomic.fna,Wolbachia endosymbiont of Litomosoides sigmodontis
+GCF_013365455.1_ASM1336545v1_genomic.fna,Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+GCF_013365475.1_ASM1336547v1_genomic.fna,Wolbachia endosymbiont of Cruorifilaria tuberocauda
+GCF_013365495.1_ASM1336549v1_genomic.fna,Wolbachia endosymbiont of Dipetalonema caudispina
+GCF_013378075.1_ASM1337807v1_genomic.fna,Parasphingopyxis algicola
+GCF_013388295.1_ASM1338829v1_genomic.fna,Bartonella alsatica
+GCF_013460375.1_ASM1346037v1_genomic.fna,Ehrlichia ruminantium
+GCF_013488225.1_ASM1348822v1_genomic.fna,Sinorhizobium mexicanum
+GCF_013752735.1_ASM1375273v1_genomic.fna,Bradyrhizobium japonicum
+GCF_014058705.1_ASM1405870v1_genomic.fna,Aureimonas mangrovi
+GCF_014117445.1_ASM1411744v1_genomic.fna,Sandaracinobacteroides saxicola
+GCF_014126615.1_ASM1412661v1_genomic.fna,Ciceribacter thiooxidans
+GCF_014189415.1_ASM1418941v1_genomic.fna,Tardiphaga robiniae
+GCF_014189455.1_ASM1418945v1_genomic.fna,Mesorhizobium huakuii
+GCF_014191545.1_ASM1419154v1_genomic.fna,Terrihabitans soli
+GCF_014211955.1_ASM1421195v1_genomic.fna,Croceicoccus marinus
+GCF_014334095.1_ASM1433409v1_genomic.fna,Novosphingopyxis iocasae
+GCF_014352855.1_ASM1435285v1_genomic.fna,Sphingomonas sabuli
+GCF_014396585.1_ASM1439658v1_genomic.fna,Sphingomonas rhizophila
+GCF_014489495.1_ASM1448949v1_genomic.fna,Sphingomonas daechungensis
+GCF_014489515.1_ASM1448951v1_genomic.fna,Sphingomonas sediminicola
+GCF_014495845.1_ASM1449584v1_genomic.fna,Aquibium microcysteis
+GCF_014672695.1_ASM1467269v1_genomic.fna,Defluviicoccus vanus
+GCF_014672835.1_ASM1467283v1_genomic.fna,Entomobacter blattae
+GCF_014681765.1_ASM1468176v1_genomic.fna,Roseicitreum antarcticum
+GCF_014764365.1_ASM1476436v1_genomic.fna,Roseococcus microcysteis
+GCF_014843995.1_ASM1484399v1_genomic.fna,Novacetimonas hansenii
+GCF_014899185.1_ASM1489918v1_genomic.fna,Pseudopuniceibacterium antarcticum
+GCF_014926585.1_ASM1492658v1_genomic.fna,Devosia beringensis
+GCF_015074805.1_ASM1507480v1_genomic.fna,Sphingobium fuliginis
+GCF_015240255.1_ASM1524025v1_genomic.fna,Kordiimonas pumila
+GCF_015291705.1_ASM1529170v1_genomic.fna,Bradyrhizobium arachidis
+GCF_015326295.1_ASM1532629v1_genomic.fna,Brucella anthropi
+GCF_015482775.1_ASM1548277v1_genomic.fna,Kaustia mangrovi
+GCF_015679265.1_ASM1567926v1_genomic.fna,Pontivivens ytuae
+GCF_016027095.1_ASM1602709v1_genomic.fna,Sphingomonas paucimobilis
+GCF_016134045.1_ASM1613404v1_genomic.fna,Pelagovum pacificum
+GCF_016584425.1_ASM1658442v1_genomic.fna,Wolbachia endosymbiont of Drosophila melanogaster
+GCF_016584445.1_ASM1658444v1_genomic.fna,Rhodopseudomonas palustris
+GCF_016656965.1_ASM1665696v1_genomic.fna,Brevundimonas vitisensis
+GCF_016743795.2_ASM1674379v2_genomic.fna,Rickettsia tillamookensis
+GCF_016743815.1_ASM1674381v1_genomic.fna,Sphingomonas aliaeris
+GCF_016757795.1_ASM1675779v1_genomic.fna,Gluconobacter sphaericus
+GCF_016765655.2_ASM1676565v2_genomic.fna,Skermanella mucosa
+GCF_016801025.1_ASM1680102v1_genomic.fna,Paradevosia shaoguanensis
+GCF_016801755.1_ASM1680175v1_genomic.fna,Sulfitobacter mediterraneus
+GCF_016806125.1_ASM1680612v1_genomic.fna,Ponticoccus alexandrii
+GCF_016806835.2_ASM1680683v2_genomic.fna,Skermanella rosea
+GCF_016807805.1_ASM1680780v1_genomic.fna,Xanthobacter dioxanivorans
+GCF_016919705.1_ASM1691970v1_genomic.fna,Paracoccus methylovorus
+GCF_016925655.1_ASM1692565v1_genomic.fna,Tsuneonella flava
+GCF_017161425.1_ASM1716142v1_genomic.fna,Marinicauda algicola
+GCF_017347565.1_ASM1734756v1_genomic.fna,Methylobacterium indicum
+GCF_017352135.1_ASM1735213v1_genomic.fna,Rhizobium lentis
+GCF_017355405.1_ASM1735540v1_genomic.fna,Roseomonas haemaphysalidis
+GCF_017357225.1_ASM1735722v1_genomic.fna,Rhizobium binae
+GCF_017357245.1_ASM1735724v1_genomic.fna,Rhizobium bangladeshense
+GCF_017357285.1_ASM1735728v1_genomic.fna,Rhizobium ruizarguesonis
+GCF_017487345.1_ASM1748734v1_genomic.fna,Brevundimonas pondensis
+GCF_017487405.1_ASM1748740v1_genomic.fna,Brevundimonas goettingensis
+GCF_017493175.3_ASM1749317v3_genomic.fna,Bradyrhizobium quebecense
+GCF_017498565.1_ASM1749856v1_genomic.fna,Parasphingorhabdus cellanae
+GCF_017607425.1_ASM1760742v1_genomic.fna,Rhizorhabdus wittichii
+GCF_017654485.1_ASM1765448v1_genomic.fna,Roseomonas marmotae
+GCF_017815515.1_ASM1781551v1_genomic.fna,Aureimonas populi
+GCF_017869285.1_ASM1786928v1_genomic.fna,Wolbachia endosymbiont of Wiebesia pumilae
+GCF_017896245.1_ASM1789624v1_genomic.fna,Wolbachia endosymbiont of Aedes aegypti
+GCF_018138105.1_ASM1813810v1_genomic.fna,Agrobacterium rhizogenes
+GCF_018141665.1_ASM1814166v1_genomic.fna,Wolbachia endosymbiont of Spodoptera picta
+GCF_018286635.1_ASM1828663v1_genomic.fna,Sphingobium phenoxybenzoativorans
+GCF_018417475.1_ASM1841747v1_genomic.fna,Novosphingobium decolorationis
+GCF_018436245.1_ASM1843624v1_genomic.fna,Pseudochrobactrum algeriensis
+GCF_018467115.1_ASM1846711v1_genomic.fna,Wolbachia endosymbiont of Drosophila yakuba
+GCF_018467135.1_ASM1846713v1_genomic.fna,Wolbachia endosymbiont of Drosophila santomea
+GCF_018491735.2_ASM1849173v2_genomic.fna,Wolbachia endosymbiont of Anopheles demeilloni
+GCF_018736085.1_ASM1873608v1_genomic.fna,Bradyrhizobium sediminis
+GCF_018798885.1_ASM1879888v1_genomic.fna,Gemmobacter fulva
+GCF_018982885.2_ASM1898288v2_genomic.fna,Polymorphobacter megasporae
+GCF_019141545.1_ASM1914154v1_genomic.fna,Paracoccus marcusii
+GCF_019203965.1_ASM1920396v1_genomic.fna,Elioraea tepida
+GCF_019297855.1_ASM1929785v1_genomic.fna,Gymnodinialimonas ceratoperidinii
+GCF_019395145.1_ASM1939514v1_genomic.fna,Brevundimonas nasdae
+GCF_019443285.1_ASM1944328v1_genomic.fna,Aquisediminimonas profunda
+GCF_019504385.1_ASM1950438v1_genomic.fna,Devosia salina
+GCF_019623905.1_ASM1962390v1_genomic.fna,Neotabrizicola shimadae
+GCF_019797865.1_ASM1979786v1_genomic.fna,Chenggangzhangella methanolivorans
+GCF_019891395.1_ASM1989139v1_genomic.fna,Nitratireductor kimnyeongensis
+GCF_019930585.1_ASM1993058v1_genomic.fna,Sphingomonas nostoxanthinifaciens
+GCF_020447305.1_ASM2044730v2_genomic.fna,Abyssibius alkaniclasticus
+GCF_020866845.1_ASM2086684v1_genomic.fna,Sphingomonas radiodurans
+GCF_020883495.1_ASM2088349v1_genomic.fna,Shinella zoogloeoides
+GCF_020906275.1_ASM2090627v1_genomic.fna,Parasphingorhabdus litoris DSM 22379
+GCF_020995475.1_ASM2099547v1_genomic.fna,Wolbachia endosymbiont of Corcyra cephalonica
+GCF_021044685.1_ASM2104468v1_genomic.fna,Bradyrhizobium daqingense
+GCF_021184025.1_ASM2118402v1_genomic.fna,Rhodopseudomonas boonkerdii
+GCF_021227995.1_ASM2122799v1_genomic.fna,Novosphingobium kaempferiae
+GCF_021310995.1_ASM2131099v1_genomic.fna,Agrobacterium vaccinii
+GCF_021378375.1_ASM2137837v1_genomic.fna,Wolbachia endosymbiont of Drosophila innubila
+GCF_021391315.1_ASM2139131v1_genomic.fna,Cereibacter azotoformans
+GCF_021391395.1_ASM2139139v1_genomic.fna,Sphingomonas cannabina
+GCF_021491915.1_ASM2149191v1_genomic.fna,Paracoccus everestensis
+GCF_021609905.1_ASM2160990v1_genomic.fna,Wolbachia endosymbiont of Delia radicum
+GCF_022459015.1_ASM2245901v1_genomic.fna,Aristophania vespae
+GCF_022533465.1_ASM2253346v1_genomic.fna,Methylobacterium organophilum
+GCF_022559585.1_ASM2255958v1_genomic.fna,Bartonella machadoae
+GCF_022788655.1_ASM2278865v1_genomic.fna,Sulfitobacter indolifex
+GCF_022836935.1_ASM2283693v1_genomic.fna,Ancylobacter polymorphus
+GCF_023038235.1_ASM2303823v1_genomic.fna,Shinella oryzae
+GCF_023243115.1_ASM2324311v1_genomic.fna,Sediminicoccus rosea
+GCF_023380025.1_ASM2338002v1_genomic.fna,Sphingomonas glaciei
+GCF_023559125.1_ASM2355912v1_genomic.fna,Wolbachia endosymbiont of Ostrinia furnacalis
+GCF_023559145.1_ASM2355914v1_genomic.fna,Wolbachia endosymbiont of Ostrinia scapulalis
+GCF_023573565.1_ASM2357356v1_genomic.fna,Brevundimonas albigilva
+GCF_023746535.1_ASM2374653v1_genomic.fna,Sneathiella marina
+GCF_023822065.1_ASM2382206v1_genomic.fna,Sphingomonas morindae
+GCF_023823125.1_ASM2382312v1_genomic.fna,Erythrobacter aurantius
+GCF_023920085.1_ASM2392008v1_genomic.fna,Bartonella taylorii
+GCF_024206795.1_ASM2420679v1_genomic.fna,Loktanella salsilacus
+GCF_024297065.1_ASM2429706v1_genomic.fna,Bartonella harrusi
+GCF_024299005.1_ASM2429900v1_genomic.fna,Neoehrlichia mikurensis
+GCF_024346605.1_ASM2434660v1_genomic.fna,Rhizobium anhuiense bv. trifolii
+GCF_024349785.1_ASM2434978v1_genomic.fna,Sphingomonas bisphenolicum
+GCF_024496245.1_ASM2449624v1_genomic.fna,Sphingomonas qomolangmaensis
+GCF_024662015.1_ASM2466201v1_genomic.fna,Nisaea acidiphila
+GCF_024707545.1_ASM2470754v1_genomic.fna,Mesorhizobium onobrychidis
+GCF_024804185.1_ASM2480418v1_genomic.fna,Wolbachia endosymbiont of Aedes albopictus
+GCF_025118245.1_ASM2511824v1_genomic.fna,Brucella pseudintermedia
+GCF_025136295.1_ASM2513629v1_genomic.fna,Aestuariispira ectoiniformans
+GCF_025137635.1_ASM2513763v1_genomic.fna,Aliiroseovarius crassostreae
+GCF_025139665.1_ASM2513966v1_genomic.fna,Leisingera caerulea
+GCF_025200715.1_ASM2520071v1_genomic.fna,Rhizobium sullae
+GCF_025617515.1_ASM2561751v1_genomic.fna,Wolbachia endosymbiont of Oryzaephilus surinamensis
+GCF_026015925.1_ASM2601592v1_genomic.fna,Wolbachia endosymbiont of Drosophila pseudotakahashii
+GCF_026168555.1_ASM2616855v1_genomic.fna,Qipengyuania spongiae
+GCF_026409565.1_ASM2640956v1_genomic.fna,Sneathiella aquimaris
+GCF_028201735.1_ASM2820173v1_genomic.fna,Sulfitobacter faviae
+GCF_028553725.1_ASM2855372v1_genomic.fna,Paracoccus alcaliphilus
+GCF_028553745.1_ASM2855374v1_genomic.fna,Paracoccus seriniphilus
+GCF_028553765.1_ASM2855376v1_genomic.fna,Paracoccus stylophorae
+GCF_028553785.1_ASM2855378v1_genomic.fna,Paracoccus fistulariae
+GCF_028553805.1_ASM2855380v1_genomic.fna,Paracoccus saliphilus
+GCF_028607085.1_ASM2860708v1_genomic.fna,Sphingomonas naphthae
+GCF_028607105.1_ASM2860710v1_genomic.fna,Novosphingobium humi
+GCF_028748065.1_ASM2874806v1_genomic.fna,Hyphococcus flavus
+GCF_028869115.1_ASM2886911v1_genomic.fna,Pseudemcibacter aquimaris
+GCF_028885395.1_ASM2888539v1_genomic.fna,Roseovarius tolerans
+GCF_029030725.1_ASM2903072v1_genomic.fna,[Pseudomonas] carboxydohydrogena
+GCF_029223885.1_ASM2922388v1_genomic.fna,Rhizobium gei
+GCF_918342435.1_Wolbachia_endosymbiont_of_CSFBv1_genomic.fna,Wolbachia endosymbiont of Psylliodes chrysocephala
+GCF_918697765.1_Wolbachia_Phyllotreta_cruciferaeV1_genomic.fna,Wolbachia endosymbiont of Phyllotreta cruciferae
+GCF_936269705.1_RiOegib_v1.0_genomic.fna,Rickettsia endosymbiont of Oedothorax gibbosus
+GCF_936270145.1_WolOegibB_v1.0_genomic.fna,Wolbachia endosymbiont of Oedothorax gibbosus
+GCF_937425535.1_Rhodovastum_atsumiense_G2-11_genomic.fna,Rhodovastum atsumiense
+GCF_947250015.1_idAcrOrbc1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont group A of Acrocera orbiculus
+GCF_947250465.1_ilPolCalb1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont group B of Nymphalis c-album
+GCF_947250475.1_ilApoBetu1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont group B of Apotomis betuletana
+GCF_947250505.1_ilPhaBuce1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont group A of Phalera bucephala
+GCF_947250515.1_ilCatPine1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Catoptria pinella
+GCF_947250525.1_ilColCroc2.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Colias croceus
+GCF_947250535.1_ilEupAuri1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Euphydryas aurinia
+GCF_947250545.1_ilEryTage1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Erynnis tages
+GCF_947250555.1_ilPanCory1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Pandemis corylana
+GCF_947250565.1_iyAndHaem1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Andrena haemorrhoa
+GCF_947250575.1_idEpiBalt1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Episyrphus balteatus
+GCF_947250585.1_iyLasMori1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Lasioglossum morio
+GCF_947250595.1_ilCamMarg1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Campaea margaritaria
+GCF_947250605.1_ilPyrMalv3.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Pyrgus malvae
+GCF_947250615.1_ilRhoNaev1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Rhopobota naevana
+GCF_947250625.1_idCheSoro1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Cheilosia soror
+GCF_947250635.1_ilParStra1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Parapoynx stratiotata
+GCF_947250645.1_ilEucCana1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Eucosma cana
+GCF_947250655.1_ilWatBina1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Watsonalla binaria
+GCF_947250675.1_ilXesCnig1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Xestia c-nigrum
+GCF_947250695.1_idEupLati1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Eupeodes latifasciatus
+GCF_947250705.1_ilArcPodn1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Archips podanus
+GCF_947250715.1_ioSymStri1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Sympetrum striolatum
+GCF_947250725.1_ilParAegt1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Pararge aegeria
+GCF_947250735.1_idSphTaen1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Sphaerophoria taeniata
+GCF_947250745.1_ilPolIcar1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Polyommatus icarus
+GCF_947250755.1_ilAgrStra1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Agriphila straminella
+GCF_947250765.1_idGymRotn1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Gymnosoma rotundatum
+GCF_947250775.1_icRhiConi1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Rhinocyllus conicus
+GCF_947250785.1_iyAncNigr1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Ancistrocerus nigricornis
+GCF_947250795.1_iyNomFabr1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Nomada fabriciana
+GCF_947250805.1_ilEndFlam1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Endotricha flammealis
+GCF_947251425.1_idProAzur1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Protocalliphora azurea
+GCF_947251435.1_idEpiGros1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group A) of Epistrophe grossularia
+GCF_947251465.1_idMelMell2.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Melanostoma mellinum
+GCF_947251475.1_ilEpiAlte1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Epirrhoe alternata
+GCF_947251485.1_iyScaNigr1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Scambus nigricans
+GCF_947251495.1_ilPamFasc1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Pammene fasciana
+GCF_947251505.1_ilThySylv1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Thymelicus sylvestris
+GCF_947251515.1_idSicFerr1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Sicus ferrugineus
+GCF_947251545.1_idAnoPurm1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Anomoia purmunda
+GCF_947251555.1_iyMacEuro1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Macropis europaea
+GCF_947251565.1_ilPheGnom1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Pheosia gnoma
+GCF_947251575.1_ilYpoPlub1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Yponomeuta plumbellus
+GCF_947251585.1_ioIscEleg1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Ischnura elegans
+GCF_947251595.1_ilEupTrip1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Eupithecia tripunctaria
+GCF_947251605.1_ilEmmMono1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Emmelina monodactyla
+GCF_947251615.1_icApoCory1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Apoderus coryli
+GCF_947251625.1_ilPhaBuce1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group B) of Phalera bucephala
+GCF_947251635.1_ihIcePurc2.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Icerya purchasi
+GCF_947251645.1_idBibMarc1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Bibio marci
+GCF_947251655.1_ilPheTrem1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Pheosia tremula
+GCF_947251665.1_iyTryClav1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Trypoxylon clavicerum
+GCF_947251675.1_idMerWest1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Merzomyia westermanni
+GCF_947251695.1_iyEctCont1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Ectemnius continuus
+GCF_947251725.1_iyTipFemo1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Tiphia femorata
+GCF_947251735.1_ilEndFlam1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group B) of Endotricha flammealis
+GCF_947251755.1_icPhiCogn1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Philonthus cognatus
+GCF_947251765.1_iyAndDors1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Andrena dorsata
+GCF_947251775.1_ilEpaGrot1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group A) of Epagoge grotiana
+GCF_947251795.1_iyAnoNige1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Anoplius nigerrimus
+GCF_947251805.1_ilCelArgi3.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Celastrina argiolus
+GCF_947251815.1_iqChoPara1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Chorthippus parallelus
+GCF_947251825.1_ilCamBiln1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Camptogramma bilineatum
+GCF_947251835.1_ilApoTurb1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Apotomis turbidana
+GCF_947251845.1_iyAthCord1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Athalia cordata
+GCF_947251865.1_idProAzur1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group B) of Protocalliphora azurea
+GCF_947251875.1_ilLycPhla1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Lycaena phlaeas
+GCF_947251895.1_idBomMajo1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Bombylius major
+GCF_947251915.1_iyHylComm1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Hylaeus communis
+GCF_947251935.1_ilCalPalu1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Calamotropha paludella
+GCF_947251945.1_iyLasLatv2.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Lasioglossum lativentre
+GCF_947251955.1_idCorMarg1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group A) of Coremacera marginata
+GCF_947251965.1_iySphMoni1.Wolbachia_sp_2.1_genomic.fna,Wolbachia endosymbiont (group A) of Sphecodes monilicornis
+GCF_947251975.1_ilHylFasc1.Wolbachia_sp_1.1_genomic.fna,Wolbachia endosymbiont (group B) of Hylaea fasciaria
