@@ -1,4 +1,4 @@
-#This script renames the newick tree from its GCF ID to the organism name on the branches produced from roary
+#This script renames the newick tree from its GCF ID to the organism name on the branches produced from roary. This was made in cooperating with Alexandra Baousi
 import re
 import pandas as pd
 
