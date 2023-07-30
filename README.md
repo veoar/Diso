@@ -39,5 +39,8 @@ mamba activate <br>
 mamba install -c bioconda macsyfinder=2.1.2 <br>
 macsydata install -u CASFinder==3.1.0 <br>
 # Run CRISPRCasFinder
-sbatch Finder.sh
+sbatch Finder.sh <br>
+# Run the following scripts to merge it into one file
+sbatch rename.sh <br>
+
 
