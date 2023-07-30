@@ -3,7 +3,7 @@
 
 # Set the source and destination directories
 source_dir="/home/mbxjt11/scratch/Prokka_results"
-dest_dir="/home/mbxjt11/scratch/prokka_gff"
+dest_dir="/home/mbxjt11/scratch/prokka_clean"
 
 # Create the destination directory if it doesn't exist
 mkdir -p $dest_dir
