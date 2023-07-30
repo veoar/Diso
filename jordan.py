@@ -1,4 +1,6 @@
 #This is a python script which creates the traits file as a csv to be used in scoary. You need to rename the first column urself and also there is a hidden <U+FEFF> in the first 1:1. Need to remove using vim filename :set nobomb :wq
+# This was made in cooperation with Alexandra Baousi
+
 #Ty issac
 #read file .xls
 
