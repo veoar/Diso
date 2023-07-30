@@ -3,7 +3,7 @@
 --cpus [N]         Number of CPUs to use [0=all]
 
 # Set the paths
-input_dir="/home/mbxjt11/scratch/clean"
+input_dir="/home/mbxjt11/scratch/prokka_clean"
 lineage_path="/home/mbxjt11/scratch/busco_downloads/lineages/alphaproteobacteria_odb10"
 
 # Create the output directory if it doesn't exist
