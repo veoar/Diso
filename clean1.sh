@@ -2,7 +2,7 @@
 
 
 # Set the source and destination directories
-source_dir="/home/mbxjt11/scratch/Prokka_results"
+source_dir="/home/mbxjt11/scratch/ncbi_dataset/data"
 dest_dir="/home/mbxjt11/scratch/prokka_clean"
 
 # Create the destination directory if it doesn't exist
