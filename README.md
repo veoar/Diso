@@ -11,7 +11,6 @@ conda config --add channels bioconda <br>
 sbatch clean.sh
 # Install mamba using conda and create a prokka environment
 conda install -c conda-forge mamba <br>
-create a conda env for prokka <br>
 conda create --prefix prokka <br>
 conda activate prokka <br>
 conda install -c bioconda prokka <br>
@@ -42,5 +41,11 @@ macsydata install -u CASFinder==3.1.0 <br>
 sbatch Finder.sh <br>
 # Run the following scripts to merge it into one file
 sbatch rename.sh <br>
-
-
+merge_CRISPR-Cas_summary1.sh <br>
+merge_Crispr_REPORT.sh <br>
+# Create a conda enviroment for the making of the traits file
+conda create --prefix ENVS <br>
+conda activate ENVS <br>
+mamba install -c anaconda pandas <br>
+mamba install -c anaconda numpy <br>
+sbatch jordan.py <br>
