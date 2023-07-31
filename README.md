@@ -56,7 +56,7 @@ The traits.csv and gene_absence_presence.csv must be in the same directory to ru
 conda create --prefix scoary <br>
 conda activate scoary <br>
 mamba install -c bioconda scoary <br>
-sbacth scoary.sh <br>
+sbatch scoary.sh <br>
 # To change the newick tree to have organism names for itol you have to change a few things
 First have the name_changer.csv, name_changer.py, newick tree file made from roary and remove_bracket.py all in the same directory. <br>
 Then create the conda environment. <br>
