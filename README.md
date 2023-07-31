@@ -1,6 +1,7 @@
 # Diso
 # Instructions on the methods of the experiment
 # Download the dataset and move it to the HPC
+These must be as complete reference genomes the NCBI genome database. 
 # Install conda using the following link and run the commands after installing conda
 https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) <br>
 conda config --add channels r <br>
@@ -49,3 +50,20 @@ conda activate ENVS <br>
 mamba install -c anaconda pandas <br>
 mamba install -c anaconda numpy <br>
 sbatch jordan.py <br>
+This would give you a traits file but you will need to change the first genome name from "0" to its actual name becuase it is zero order. First column must also be manually changed to CRIPRS and Cas respectively
+#Run Socary
+The traits.csv and gene_absence_presence.csv must be in the same directory to run the script <br>
+conda create --prefix scoary <br>
+conda activate scoary <br>
+mamba install -c bioconda scoary <br>
+sbacth scoary.sh <br>
+#To change the newick tree to have organism names for itol you have to change a few things
+First have the name_changer.csv, name_changer.py, newick tree file made from roary and remove_bracket.py all in the same directory. <br>
+Then create the conda environment. <br>
+conda create --prefix NEW <br>
+conda activate NEW <br>
+mamba install -c conda-forge regex <br>
+mamba install -c anaconda pandas <br>
+mamba install -c anaconda csvkit <br>
+python3 remove_bracket.py <br>
+python3 name_changer.py <br>
