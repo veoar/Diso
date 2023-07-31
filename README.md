@@ -51,13 +51,13 @@ mamba install -c anaconda pandas <br>
 mamba install -c anaconda numpy <br>
 sbatch jordan.py <br>
 This would give you a traits file but you will need to change the first genome name from "0" to its actual name becuase it is zero order. First column must also be manually changed to CRIPRS and Cas respectively
-#Run Socary
+# Run Socary
 The traits.csv and gene_absence_presence.csv must be in the same directory to run the script <br>
 conda create --prefix scoary <br>
 conda activate scoary <br>
 mamba install -c bioconda scoary <br>
 sbacth scoary.sh <br>
-#To change the newick tree to have organism names for itol you have to change a few things
+# To change the newick tree to have organism names for itol you have to change a few things
 First have the name_changer.csv, name_changer.py, newick tree file made from roary and remove_bracket.py all in the same directory. <br>
 Then create the conda environment. <br>
 conda create --prefix NEW <br>
